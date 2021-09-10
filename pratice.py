@@ -14,4 +14,5 @@ deepkd = [4,5,7,8,4,5,45,4,4]
 print(type(deepkd))
 squre = list(map(lambda x : x*x ,deepkd ))
 print(squre)
+print('hello')
 
